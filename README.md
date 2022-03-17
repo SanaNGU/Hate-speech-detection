@@ -11,7 +11,7 @@ https://hasocfire.github.io/hasoc/2021/index.html
 
 - CNN results 
 
--<img src="https://github.com/SanaNGU/Hate-speech-detection/blob/main/Bi-LSTM.png" alt="drawing" style="width:400px;hight=300"/>. 
+-<img src="https://github.com/SanaNGU/Hate-speech-detection/blob/main/Bi-LSTM.png" alt="drawing" style="width:500px;hight=300"/>. 
 
 ## More details  can be found  here:
 
